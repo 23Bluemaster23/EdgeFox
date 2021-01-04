@@ -8,7 +8,7 @@ Es un **userchrome** que imita (o intenta imitar) el estilo del navegador **Edge
 thanks to/gracias a:
 
 
-[muckSponge](https://github.com/muckSponge "muckSponge") for the use of/por el uso de [MaterialFox](https://github.com/muckSponge/MaterialFoxhttp:// "MaterialFox") 
+[muckSponge](https://github.com/muckSponge "muckSponge") for the use of/por el uso de [MaterialFox](https://github.com/muckSponge/MaterialFox "MaterialFox") 
 
 [Michael](http://github.com/M1ch431 "Michael") for the use of/por el uso de [FirefoxW10ContextMenus](http://github.com/M1ch431/FirefoxW10ContextMenus "FirefoxW10ContextMenus")
 
