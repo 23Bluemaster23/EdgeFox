@@ -1,9 +1,29 @@
 # EdgeFox
-Is a **userchrome** that imitates (or attempts to imitate) the style of Microsoft's **Edge Chromiun** browser.  is a project in development.
+Is a **userchrome** that imitates (or attempts to imitate) the style of Microsoft's **Edge Chromiun** browser.  is a project in development./Es un **userchrome** que imita (o intenta imitar) el estilo del navegador **Edge Chromiun** de Microsoft. es un proyecto en desarrollo.
 
-Es un **userchrome** que imita (o intenta imitar) el estilo del navegador **Edge Chromiun** de Microsoft. es un proyecto en desarrollo.
+### Recommendations/Recomendaciones
+
+
+------------
+Thanks to/Gracias a **u/NextFortune** for the idea/por la idea.
+
+If you want to get the smooth scroll of Edge,you have to modify options in **about:config** /Si quieres conseguir el desplazamiento suave de Edge, tienes que modificar las opciones en **about:config** :
+
+
+``general.smoothScroll``  to `true`
+
+``general.smoothScroll.currentVelocityWeighting`` to `0.1`
+
+`general.smoothScroll.mouseWheel.durationMaxMS` to `250`
+
+`general.smoothScroll.mouseWheel.durationMinMS` to `125`
+
+`general.smoothScroll.stopDecelerationWeighting` to `0.7`
+
+`mousewheel.min_line_scroll_amount` to `25`
 
 ### Acknowledgements/Agradecimientos
+------------
 
 thanks to/gracias a:
 
