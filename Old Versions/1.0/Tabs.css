@@ -7,6 +7,7 @@
   height: calc(2 * var(--toolbarbutton-inner-padding) + 16px) !important;
   margin-top: 4px !important;
   margin-bottom: 4px !important;
+
   box-shadow: none !important;
 }
 
@@ -211,6 +212,8 @@
 
 .tabbrowser-tab
 {
+	--tab-opacity: 0;
+	--tab-bgcolor: #000;
 	--tab-transition-duration: .2s;
 }
 
@@ -616,7 +619,7 @@ toolbar .toolbarbutton-1 {
   width: 16px !important;
   opacity: 0.7 !important;
 }
-/*
+
 .tabbrowser-tab:hover
   > .tab-stack
   > .tab-background:not([selected='true']):not([multiselected]) {
@@ -630,7 +633,7 @@ toolbar .toolbarbutton-1 {
   > .tab-background:not([selected='true']):not([multiselected]) {
   background-color: rgba(255, 255, 255, 0.04) !important;
 }
-*/
+
 .tab-background {
   border-top: none !important;
 }
@@ -723,6 +726,12 @@ toolbar .toolbarbutton-1 {
   background: rgba(0, 0, 0, 0.49) !important;
 }
 
+/* TABS RADIUS */
+/* TABS RADIUS */
+/* TABS RADIUS */
+/* TABS RADIUS */
+/* TABS RADIUS */
+/* TABS RADIUS */
 
 :root[extradragspace] .tab-background {
   border-radius: 4px 4px 0 0 !important;
@@ -757,13 +766,24 @@ toolbar .toolbarbutton-1 {
   transform: rotate(45deg);
 }
 
-
+/* TABS OVERFLOW */
 
 .arrowscrollbox-overflow-start-indicator,
 .arrowscrollbox-overflow-end-indicator {
   opacity: 0.31 !important;
 }
 
+    .titlebar-buttonbox { 
+
+ display: flex;
+ margin-bottom: 14px;
+}
+
+/* .tabbrowser-tab {
+
+ visibility: hidden;
+
+} */
 
 
 
@@ -773,66 +793,10 @@ toolbar .toolbarbutton-1 {
 
 }
 
-
+/* #titlebar-secondary-buttonbox:-moz-locale-dir(rtl), */
 
     .titlebar-buttonbox-container { 
 
  -moz-box-ordinal-group: 0;
 
 }
-
-
-
-panelview:not([extension]),
-.panel-arrowcontent {
-    background-color: var(--toolbar-bgcolor) !important;
-    color: var(--toolbar-color) !important;
-}
-
-
-/* -------------------- Transitions for some things -------------------- */
-toolbarbutton,
-.subviewbutton,
-stack, 
-.toolbarbutton-icon,
-vbox
-{
-    transition: background-color var(--animation-speed) !important;
-
-} 
-
-.urlbar-input-box,
-#identity-box, 
-#tracking-protection-icon-container,
-.urlbar-history-dropmarker, 
-.urlbar-page-action,
-#reader-mode-button, 
-[anonid=urlbar-go-button],
-.toolbarbutton-1 > stack,
-toolbarbutton:not(.titlebar-button):not([class^="findbar-find"]):not([class^="scrollbutton"]),
-.close-icon
-{
-    border-radius: var(--button-corner-rounding)!important;
-}
-
-
-.findbar-find-next {
-    border-radius: 0px var(--button-corner-rounding) var(--button-corner-rounding) 0px !important;
-}
-
-.findbar-textbox {
-    border-radius: var(--button-corner-rounding) 0px 0px var(--button-corner-rounding) !important;
-}
-
-
-#urlbar {
-    border-radius: calc(1px + var(--button-corner-rounding)) !important;
-    border: none !important;
-}
-
-#identity-box {
-    margin-right: 0px !important;
-}
-
-#nav-bar{--toolbarbutton-inner-padding: 5px}
-#urlbar,.searchbar-textbox{margin: 0 3px !important;}

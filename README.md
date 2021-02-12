@@ -33,3 +33,5 @@ thanks to/gracias a:
 [Michael](http://github.com/M1ch431 "Michael") for the use of/por el uso de [FirefoxW10ContextMenus](http://github.com/M1ch431/FirefoxW10ContextMenus "FirefoxW10ContextMenus")
 
 [Chris Feijoo](http://github.com/kube "Chris Feijoo")  for the use of/por el uso de [Firefox Edge Theme](http://github.com/kube/firefox-edge-theme "Firefox Edge Theme")
+
+[Coekuss](https://github.com/coekuss "Coekuss") for the use of/por el uso de [QuietFox](https://github.com/coekuss/quietfox "QuietFox")
