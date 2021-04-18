@@ -37,3 +37,5 @@ thanks to/gracias a:
 [Chris Feijoo](http://github.com/kube "Chris Feijoo")  for the use of/por el uso de [Firefox Edge Theme](http://github.com/kube/firefox-edge-theme "Firefox Edge Theme")
 
 [Coekuss](https://github.com/coekuss "Coekuss") for the use of/por el uso de [QuietFox](https://github.com/coekuss/quietfox "QuietFox")
+
+[bmFtZQ](https://github.com/bmFtZQ) for the use of/por el uso de [Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox)
