@@ -1,2 +1,6 @@
-@import "ContextMenu.css";
-@import "Tabs.css";
+@import "global/variables.css";
+@import "global/global.css";
+@import "popup/ContextMenu.css";
+@import "tabbar/Tabs.css";
+@import "urlbar/urlBar.css";
+@import "Icons/icons.css";
