@@ -172,6 +172,7 @@ menupopup menu:hover:not([disabled=true]),
 .autocomplete-richlistitem:hover:not([disabled=true]):not([selected=true])
 {
 	background-color: var(--arrowpanel-dimmed) !important;
+	background-color: color-mix(in sRGB,currentColor 17%,transparent) !important;
 }
 
 menupopup menuitem:hover:active:not([disabled=true]),
@@ -319,6 +320,7 @@ menulist > menupopup > menuitem[checked="true"]::before, menulist > menupopup > 
 #context-navigation .menuitem-iconic:hover:not([disabled])
 {
 	background-color: var(--arrowpanel-dimmed) !important;
+	background-color: color-mix(in sRGB,currentColor 17%,transparent) !important;
 }
 
 #context-navigation .menuitem-iconic:hover:active:not([disabled])
@@ -766,6 +768,7 @@ panelmultiview .toolbaritem-combined-buttons > spacer.after-label
 #customization-lwtheme-menu-footer toolbarbutton:hover
 {
 	background-color: var(--arrowpanel-dimmed) !important;
+	background-color: color-mix(in sRGB,currentColor 17%,transparent) !important;
 }
 
 .tracking-protection-button:hover:active:not([disabled=true]),
@@ -1250,6 +1253,11 @@ menupopup:not(#ContentSelectDropdown > menupopup) :is(menuitem:not(.menuitem-ico
 #context-inspect {
 	--menuitem-image: url(icons/inspect.svg) !important;
 }
+
+#context-take-screenshot {
+    --menuitem-image: url(icons/screenshot.svg) !important;
+}
+
 #context-savepage, #context-saveimage, #context-savevideo, #context-saveaudio {
 	--menuitem-image: url(icons/savefile.svg) !important;
 }

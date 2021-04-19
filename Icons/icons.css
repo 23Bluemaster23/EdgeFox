@@ -462,3 +462,8 @@ richlistitem[originaltype="loginsFooter"] .ac-site-icon,
 {
 	background-image: url(search.svg) !important;
 }
+
+#screenshot-button{
+	list-style-image: url(screenshot.svg) !important;
+}
+
