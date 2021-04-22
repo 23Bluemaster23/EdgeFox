@@ -19,7 +19,8 @@ If you want to get the smooth scroll of Edge,you have to modify options in **abo
 
     
 
- - `layout.css.color-mix.enabled´´ to `true`
+ - `layout.css.color-mix.enabled`  to  `true`
+
 ``general.smoothScroll``  to `true`
 
 ``general.smoothScroll.currentVelocityWeighting`` to `0.1`
@@ -46,5 +47,5 @@ thanks to/gracias a:
 
 [Coekuss](https://github.com/coekuss "Coekuss") for the use of/por el uso de [QuietFox](https://github.com/coekuss/quietfox "QuietFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMjE3NTUzLDE3MzgxNDI2ODddfQ==
+eyJoaXN0b3J5IjpbLTc1ODA5MTM4OSwxNzM4MTQyNjg3XX0=
 -->
