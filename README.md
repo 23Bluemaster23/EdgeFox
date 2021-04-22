@@ -2,6 +2,7 @@
 Is a **userchrome** that imitates (or attempts to imitate) the style of Microsoft's **Edge Chromiun** browser.  is a project in development./Es un **userchrome** que imita (o intenta imitar) el estilo del navegador **Edge Chromiun** de Microsoft. es un proyecto en desarrollo.
 
 <img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/59dgw183wrg412.png" width="700" />
+
 ### Recommendations/Recomendaciones
 
 
@@ -10,6 +11,7 @@ Thanks to/Gracias a **u/NextFortune** for the idea/por la idea.
 
 If you want to get the smooth scroll of Edge,you have to modify options in **about:config** /Si quieres conseguir el desplazamiento suave de Edge, tienes que modificar las opciones en **about:config** :
 
+**Important/Importante:**
 
 ``general.smoothScroll``  to `true`
 
@@ -37,5 +39,5 @@ thanks to/gracias a:
 
 [Coekuss](https://github.com/coekuss "Coekuss") for the use of/por el uso de [QuietFox](https://github.com/coekuss/quietfox "QuietFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODgwMjk3Nl19
+eyJoaXN0b3J5IjpbLTE4MzgwMTM1MzhdfQ==
 -->
