@@ -20,7 +20,7 @@ You have to modify options in **about:config** /Si quieres conseguir el desplaza
  - `layout.css.color-mix.enabled`  to  `true`
  
  
-####  **sSmooth Scroll:**
+####  **🍃 Smooth Scroll 🍃**
 ------------
 Thanks to/Gracias a **u/NextFortune** for the idea/por la idea.
 
@@ -52,5 +52,5 @@ thanks to/gracias a:
 
 [Coekuss](https://github.com/coekuss "Coekuss") for the use of/por el uso de [QuietFox](https://github.com/coekuss/quietfox "QuietFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzY1MjE1NywxNzM4MTQyNjg3XX0=
+eyJoaXN0b3J5IjpbNDQ5NTQ2Njc4LDE3MzgxNDI2ODddfQ==
 -->
