@@ -51,6 +51,11 @@ thanks to/gracias a:
 [Chris Feijoo](http://github.com/kube "Chris Feijoo")  for the use of/por el uso de [Firefox Edge Theme](http://github.com/kube/firefox-edge-theme "Firefox Edge Theme")
 
 [Coekuss](https://github.com/coekuss "Coekuss") for the use of/por el uso de [QuietFox](https://github.com/coekuss/quietfox "QuietFox")
+
+
+[Coekuss](https://github.com/coekuss "Coekuss") for the use of/por el uso de [QuietFox]([Coekuss](https://github.com/coekuss "Coekuss") for the use of/por el uso de [QuietFox](https://github.com/coekuss/quietfox "QuietFox")
+ "QuietFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzY5ODA3MiwxNzM4MTQyNjg3XX0=
+eyJoaXN0b3J5IjpbLTkxNDY3NjkxMywtODgzNjk4MDcyLDE3Mz
+gxNDI2ODddfQ==
 -->
