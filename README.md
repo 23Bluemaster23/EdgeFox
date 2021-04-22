@@ -13,6 +13,8 @@ If you want to get the smooth scroll of Edge,you have to modify options in **abo
 
 **Important/Importante:**
 
+ - `toolkit.legacyUserProfileCustomizations.stylesheets`
+
 ``general.smoothScroll``  to `true`
 
 ``general.smoothScroll.currentVelocityWeighting`` to `0.1`
@@ -39,5 +41,5 @@ thanks to/gracias a:
 
 [Coekuss](https://github.com/coekuss "Coekuss") for the use of/por el uso de [QuietFox](https://github.com/coekuss/quietfox "QuietFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzgwMTM1MzhdfQ==
+eyJoaXN0b3J5IjpbMTkxODczMDI4MV19
 -->
