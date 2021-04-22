@@ -7,8 +7,7 @@ Is a **userchrome** that imitates (or attempts to imitate) the style of Microsof
 
 
 ------------
-
-#### Heading **Important/Importante:**
+####  **Important/Importante:**
 
  - `toolkit.legacyUserProfileCustomizations.stylesheets` to `true`
   
@@ -17,6 +16,13 @@ Is a **userchrome** that imitates (or attempts to imitate) the style of Microsof
     
 
  - `layout.css.color-mix.enabled`  to  `true`
+ 
+ 
+####  **Smooth Scroll:**
+	
+Thanks to/Gracias a **u/NextFortune** for the idea/por la idea.
+
+If you want to get the smooth scroll of Edge,you have to modify options in **about:config** /Si quieres conseguir el desplazamiento suave de Edge, tienes que modificar las opciones en **about:config** :
 
 ``general.smoothScroll``  to `true`
 
@@ -44,5 +50,5 @@ thanks to/gracias a:
 
 [Coekuss](https://github.com/coekuss "Coekuss") for the use of/por el uso de [QuietFox](https://github.com/coekuss/quietfox "QuietFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTk3NDQwNSwxNzM4MTQyNjg3XX0=
+eyJoaXN0b3J5IjpbLTg5MTM5MDA0NiwxNzM4MTQyNjg3XX0=
 -->
