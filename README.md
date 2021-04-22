@@ -10,7 +10,7 @@ Is a **userchrome** that imitates (or attempts to imitate) the style of Microsof
 ####  **⛔ Important/Importante ⛔**
 
 ------------
-You have to modify options in **about:config** /Si quieres conseguir el desplazamiento suave de Edge, tienes que modificar las opciones en **about:config** :
+You have to modify options in **about:config** /tienes que modificar las opciones en **about:config** :
  - `toolkit.legacyUserProfileCustomizations.stylesheets` to `true`
   
  - `svg.context-properties.content.enabled` to `true` 
@@ -52,5 +52,5 @@ thanks to/gracias a:
 
 [Coekuss](https://github.com/coekuss "Coekuss") for the use of/por el uso de [QuietFox](https://github.com/coekuss/quietfox "QuietFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5NTQ2Njc4LDE3MzgxNDI2ODddfQ==
+eyJoaXN0b3J5IjpbLTg4MzY5ODA3MiwxNzM4MTQyNjg3XX0=
 -->
