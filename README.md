@@ -53,9 +53,8 @@ thanks to/gracias a:
 [Coekuss](https://github.com/coekuss "Coekuss") for the use of/por el uso de [QuietFox](https://github.com/coekuss/quietfox "QuietFox")
 
 
-[Coekuss](https://github.com/coekuss "Coekuss") for the use of/por el uso de [QuietFox]([Coekuss](https://github.com/coekuss "Coekuss") for the use of/por el uso de [QuietFox](https://github.com/coekuss/quietfox "QuietFox")
- "QuietFox")
+[bmFtZQ](https://github.com/bmFtZQ "bmFtZQ") for the use of/por el uso de [Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox "Edge-FrFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDY3NjkxMywtODgzNjk4MDcyLDE3Mz
+eyJoaXN0b3J5IjpbMjA4MTY0MjM3MywtODgzNjk4MDcyLDE3Mz
 gxNDI2ODddfQ==
 -->
