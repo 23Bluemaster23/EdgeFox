@@ -11,6 +11,11 @@ Thanks to/Gracias a **u/NextFortune** for the idea/por la idea.
 
 If you want to get the smooth scroll of Edge,you have to modify options in **about:config** /Si quieres conseguir el desplazamiento suave de Edge, tienes que modificar las opciones en **about:config** :
 
+**Important/Importante:**
+
+ - `toolkit.legacyUserProfileCustomizations.stylesheets` to `true`
+  
+ - `svg.context-properties.content.enabled` to `true` 
 
 ``general.smoothScroll``  to `true`
 
@@ -37,5 +42,6 @@ thanks to/gracias a:
 [Chris Feijoo](http://github.com/kube "Chris Feijoo")  for the use of/por el uso de [Firefox Edge Theme](http://github.com/kube/firefox-edge-theme "Firefox Edge Theme")
 
 [Coekuss](https://github.com/coekuss "Coekuss") for the use of/por el uso de [QuietFox](https://github.com/coekuss/quietfox "QuietFox")
-
-[bmFtZQ](https://github.com/bmFtZQ) for the use of/por el uso de [Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTczODE0MjY4N119
+-->
