@@ -24,7 +24,7 @@ You have to modify options in **about:config** /Si quieres conseguir el desplaza
 ------------
 Thanks to/Gracias a **u/NextFortune** for the idea/por la idea.
 
-If you want to get the smooth scroll of Edge,you have to modify options in **about:config** / tienes que modificar las opciones en **about:config** :
+If you want to get the smooth scroll of Edge,you have to modify options in **about:config** /Si quieres conseguir el desplazamiento suave de Edge, tienes que modificar las opciones en **about:config** :
 
 ``general.smoothScroll``  to `true`
 
@@ -52,5 +52,5 @@ thanks to/gracias a:
 
 [Coekuss](https://github.com/coekuss "Coekuss") for the use of/por el uso de [QuietFox](https://github.com/coekuss/quietfox "QuietFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NjEwMTM3NCwxNzM4MTQyNjg3XX0=
+eyJoaXN0b3J5IjpbNDQ5NTQ2Njc4LDE3MzgxNDI2ODddfQ==
 -->
