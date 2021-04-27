@@ -85,6 +85,8 @@ If you want to get the smooth scroll of Edge,you have to modify options in **abo
 
 
 ####  ⛔ Customize scroll bar / customizar barra de desplazamiento  ⛔
+
+-----------
 Inside the "chrome" folder there is a folder called Scrollbars, select the type of scroll bar you want and select and copy the code that is inside, then paste that same code in the "ScrollBars.css" file that is located in the "extras" folder, and so you will have your personalized bar.
 
 dentro de la carpeta "chrome" se encuentra una carpeta llamada Scrollbars, selecciona el tipo de barra de desplazamiento que desea y selecciona y copia el codigo que se encuentra dentro, luego pega ese mismo codigo en el archivo "ScrollBars.css" que se encuentra en la carpeta "extras", y asi tendras tu barra personalizada.
@@ -108,7 +110,7 @@ thanks to/gracias a:
 
 [bmFtZQ](https://github.com/bmFtZQ "bmFtZQ") for the use of/por el uso de [Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox "Edge-FrFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjM1NzY3LDE3ODMxMDg0MjAsMjAyNT
+eyJoaXN0b3J5IjpbMjIwMjg4NDY0LDE3ODMxMDg0MjAsMjAyNT
 IxNzkxNiwxMTUxNDMzNTI1LC0yMDgzMjczMDU3LC02ODMwODQ3
 ODMsLTE0NTg1MTkyOTUsMTMzODE1NTUzMCw5MTgyNjg4MzAsMT
 k5MTQyMDg1MywtMjExODczMTYxNCwtNjA1OTYzODk2LDIwODE2
