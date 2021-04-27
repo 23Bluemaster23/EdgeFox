@@ -12,10 +12,14 @@ Is a **userchrome** that imitates (or attempts to imitate) the style of Microsof
  2. Type in the address bar/escribe en la barra de direcciones:  `about:profiles`
  
  3. Locate the "Local Directory" and press the "Open Folder" button/Localiza el "Directorio local" y presionas el boton "Abrir Carpeta".
+
 <img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/3.png" width="700" />
  
- 4. 
-put the "chrome" folder from the zip in the local directory
+ 4. put the "chrome" folder from the zip in the local directory/poner la carpeta "chrome" del zip en el directorio local.
+
+<img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/4.png" width="700" /> 
+
+5. 
 ### Recommendations/Recomendaciones
 
 
@@ -68,7 +72,7 @@ thanks to/gracias a:
 
 [bmFtZQ](https://github.com/bmFtZQ "bmFtZQ") for the use of/por el uso de [Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox "Edge-FrFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MzYxODUsLTIxMTg3MzE2MTQsLTYwNT
-k2Mzg5NiwyMDgxNjQyMzczLC04ODM2OTgwNzIsMTczODE0MjY4
-N119
+eyJoaXN0b3J5IjpbMTk5MTQyMDg1MywtMjExODczMTYxNCwtNj
+A1OTYzODk2LDIwODE2NDIzNzMsLTg4MzY5ODA3MiwxNzM4MTQy
+Njg3XX0=
 -->
