@@ -109,11 +109,14 @@ thanks to/gracias a:
 
 
 [bmFtZQ](https://github.com/bmFtZQ "bmFtZQ") for the use of/por el uso de [Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox "Edge-FrFox")
+
+
+[astroryan12](https://github.com/astroryan12 "astroryan12") for the use of/por el uso de [VerticalTabs](https://github.com/astroryan12/VerticalTabs "VerticalTabs")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwMjg4NDY0LDE3ODMxMDg0MjAsMjAyNT
-IxNzkxNiwxMTUxNDMzNTI1LC0yMDgzMjczMDU3LC02ODMwODQ3
-ODMsLTE0NTg1MTkyOTUsMTMzODE1NTUzMCw5MTgyNjg4MzAsMT
-k5MTQyMDg1MywtMTM5NDg1MTM4OSwtMjExODczMTYxNCwtNjA1
-OTYzODk2LDIwODE2NDIzNzMsLTg4MzY5ODA3MiwxNzM4MTQyNj
-g3XX0=
+eyJoaXN0b3J5IjpbLTE0MDc0OTE4OTAsMjIwMjg4NDY0LDE3OD
+MxMDg0MjAsMjAyNTIxNzkxNiwxMTUxNDMzNTI1LC0yMDgzMjcz
+MDU3LC02ODMwODQ3ODMsLTE0NTg1MTkyOTUsMTMzODE1NTUzMC
+w5MTgyNjg4MzAsMTk5MTQyMDg1MywtMTM5NDg1MTM4OSwtMjEx
+ODczMTYxNCwtNjA1OTYzODk2LDIwODE2NDIzNzMsLTg4MzY5OD
+A3MiwxNzM4MTQyNjg3XX0=
 -->
