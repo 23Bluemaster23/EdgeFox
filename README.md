@@ -27,7 +27,8 @@ Is a **userchrome** that imitates (or attempts to imitate) the style of Microsof
 
 ------------
 
- 1. 
+ 1. Enter the extension options, look for the Advanced Option/Entrar en las opciones de la extensión, busca la Opcion Avanzada.
+ 2. 
 
 ### Recommendations/Recomendaciones
 
@@ -81,7 +82,8 @@ thanks to/gracias a:
 
 [bmFtZQ](https://github.com/bmFtZQ "bmFtZQ") for the use of/por el uso de [Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox "Edge-FrFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4MjY4ODMwLDE5OTE0MjA4NTMsLTEzOT
-Q4NTEzODksLTIxMTg3MzE2MTQsLTYwNTk2Mzg5NiwyMDgxNjQy
-MzczLC04ODM2OTgwNzIsMTczODE0MjY4N119
+eyJoaXN0b3J5IjpbLTczMzk2OTk5OCw5MTgyNjg4MzAsMTk5MT
+QyMDg1MywtMTM5NDg1MTM4OSwtMjExODczMTYxNCwtNjA1OTYz
+ODk2LDIwODE2NDIzNzMsLTg4MzY5ODA3MiwxNzM4MTQyNjg3XX
+0=
 -->
