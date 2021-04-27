@@ -41,8 +41,11 @@ Is a **userchrome** that imitates (or attempts to imitate) the style of Microsof
 
 <img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/7.png" width="700" /> 
 
-5. 
+5. Select the "config-hover.json" file that is in the "TST" folder/selecciona el archivo "config-hover.json" que se encuentra en la carpeta "TST".
 
+<img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/8.png" width="700" /> 
+
+6. 
 ### Recommendations/Recomendaciones
 
 
@@ -95,9 +98,9 @@ thanks to/gracias a:
 
 [bmFtZQ](https://github.com/bmFtZQ "bmFtZQ") for the use of/por el uso de [Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox "Edge-FrFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODMyNzMwNTcsLTY4MzA4NDc4MywtMT
-Q1ODUxOTI5NSwxMzM4MTU1NTMwLDkxODI2ODgzMCwxOTkxNDIw
-ODUzLC0xMzk0ODUxMzg5LC0yMTE4NzMxNjE0LC02MDU5NjM4OT
-YsMjA4MTY0MjM3MywtODgzNjk4MDcyLDE3MzgxNDI2ODddfQ==
-
+eyJoaXN0b3J5IjpbLTI2NTE4NzcwMSwtMjA4MzI3MzA1NywtNj
+gzMDg0NzgzLC0xNDU4NTE5Mjk1LDEzMzgxNTU1MzAsOTE4MjY4
+ODMwLDE5OTE0MjA4NTMsLTEzOTQ4NTEzODksLTIxMTg3MzE2MT
+QsLTYwNTk2Mzg5NiwyMDgxNjQyMzczLC04ODM2OTgwNzIsMTcz
+ODE0MjY4N119
 -->
