@@ -15,6 +15,7 @@ Is a **userchrome** that imitates (or attempts to imitate) the style of Microsof
 <img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/3.png" width="700" />
  
  4. 
+put the "chrome" folder from the zip in the local directory
 ### Recommendations/Recomendaciones
 
 
@@ -67,7 +68,7 @@ thanks to/gracias a:
 
 [bmFtZQ](https://github.com/bmFtZQ "bmFtZQ") for the use of/por el uso de [Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox "Edge-FrFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODQzNzMyOSwtMTM5NDg1MTM4OSwtMj
-ExODczMTYxNCwtNjA1OTYzODk2LDIwODE2NDIzNzMsLTg4MzY5
-ODA3MiwxNzM4MTQyNjg3XX0=
+eyJoaXN0b3J5IjpbMTM3MzYxODUsLTEzOTQ4NTEzODksLTIxMT
+g3MzE2MTQsLTYwNTk2Mzg5NiwyMDgxNjQyMzczLC04ODM2OTgw
+NzIsMTczODE0MjY4N119
 -->
