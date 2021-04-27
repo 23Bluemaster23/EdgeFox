@@ -84,7 +84,9 @@ If you want to get the smooth scroll of Edge,you have to modify options in **abo
 `mousewheel.min_line_scroll_amount` to `25`
 
 
-####  **🍃 Smooth Scroll 🍃**
+####  **⛔ Customize scroll bar / customizar barra de desplazamiento  ⛔**
+
+------------
 
 ### Acknowledgements/Agradecimientos
 ------------
@@ -103,7 +105,7 @@ thanks to/gracias a:
 
 [bmFtZQ](https://github.com/bmFtZQ "bmFtZQ") for the use of/por el uso de [Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox "Edge-FrFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODQ4OTIwNSwyMDI1MjE3OTE2LDExNT
+eyJoaXN0b3J5IjpbMTc4MzEwODQyMCwyMDI1MjE3OTE2LDExNT
 E0MzM1MjUsLTIwODMyNzMwNTcsLTY4MzA4NDc4MywtMTQ1ODUx
 OTI5NSwxMzM4MTU1NTMwLDkxODI2ODgzMCwxOTkxNDIwODUzLC
 0xMzk0ODUxMzg5LC0yMTE4NzMxNjE0LC02MDU5NjM4OTYsMjA4
