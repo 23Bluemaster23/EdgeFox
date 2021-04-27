@@ -33,7 +33,7 @@ Is a **userchrome** that imitates (or attempts to imitate) the style of Microsof
 
 <img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/5.png" width="700" /> 
 
- 3. 
+ 3. Find the "treestyletab.css" file in the "TST" folder/busca el archivo "treestyletab.css" en la carpeta "TST".
 
 ### Recommendations/Recomendaciones
 
@@ -87,8 +87,8 @@ thanks to/gracias a:
 
 [bmFtZQ](https://github.com/bmFtZQ "bmFtZQ") for the use of/por el uso de [Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox "Edge-FrFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTg1MTkyOTUsMTMzODE1NTUzMCw5MT
-gyNjg4MzAsMTk5MTQyMDg1MywtMjExODczMTYxNCwtNjA1OTYz
-ODk2LDIwODE2NDIzNzMsLTg4MzY5ODA3MiwxNzM4MTQyNjg3XX
-0=
+eyJoaXN0b3J5IjpbMjAyNjEwMzk2MSwtMTQ1ODUxOTI5NSwxMz
+M4MTU1NTMwLDkxODI2ODgzMCwxOTkxNDIwODUzLC0yMTE4NzMx
+NjE0LC02MDU5NjM4OTYsMjA4MTY0MjM3MywtODgzNjk4MDcyLD
+E3MzgxNDI2ODddfQ==
 -->
