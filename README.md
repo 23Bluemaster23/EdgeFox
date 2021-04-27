@@ -30,6 +30,9 @@ Is a **userchrome** that imitates (or attempts to imitate) the style of Microsof
  1. Enter the extension options, look for the Advanced Option/Entrar en las opciones de la extensión, busca la Opcion Avanzada.
  
  2. In the CSS part press the "Load From File" button/En la parte de CSS preciona el boton "Load From File".
+
+<img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/5.png" width="700" /> 
+
 ### Recommendations/Recomendaciones
 
 
@@ -82,7 +85,7 @@ thanks to/gracias a:
 
 [bmFtZQ](https://github.com/bmFtZQ "bmFtZQ") for the use of/por el uso de [Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox "Edge-FrFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODAyNDEwMSw5MTgyNjg4MzAsMTk5MT
+eyJoaXN0b3J5IjpbMTMzODE1NTUzMCw5MTgyNjg4MzAsMTk5MT
 QyMDg1MywtMTM5NDg1MTM4OSwtMjExODczMTYxNCwtNjA1OTYz
 ODk2LDIwODE2NDIzNzMsLTg4MzY5ODA3MiwxNzM4MTQyNjg3XX
 0=
