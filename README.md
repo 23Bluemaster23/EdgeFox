@@ -37,7 +37,10 @@ Is a **userchrome** that imitates (or attempts to imitate) the style of Microsof
 
 <img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/6.png" width="700" /> 
 
-4. 
+4. Now look for the "Import" button at the bottom of the page/ahora busca el boton "import" en el fondo de la pagina.
+
+<img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/6.png" width="700" /> 
+5. 
 
 ### Recommendations/Recomendaciones
 
@@ -91,8 +94,8 @@ thanks to/gracias a:
 
 [bmFtZQ](https://github.com/bmFtZQ "bmFtZQ") for the use of/por el uso de [Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox "Edge-FrFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzA4NDc4MywtMTQ1ODUxOTI5NSwxMz
-M4MTU1NTMwLDkxODI2ODgzMCwxOTkxNDIwODUzLC0xMzk0ODUx
-Mzg5LC0yMTE4NzMxNjE0LC02MDU5NjM4OTYsMjA4MTY0MjM3My
-wtODgzNjk4MDcyLDE3MzgxNDI2ODddfQ==
+eyJoaXN0b3J5IjpbLTY1NjAwODI0NCwtNjgzMDg0NzgzLC0xND
+U4NTE5Mjk1LDEzMzgxNTU1MzAsOTE4MjY4ODMwLDE5OTE0MjA4
+NTMsLTEzOTQ4NTEzODksLTIxMTg3MzE2MTQsLTYwNTk2Mzg5Ni
+wyMDgxNjQyMzczLC04ODM2OTgwNzIsMTczODE0MjY4N119
 -->
