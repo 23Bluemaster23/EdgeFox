@@ -7,15 +7,15 @@ Is a **userchrome** that imitates (or attempts to imitate) the style of Microsof
 
 ### Installation/Instalación
 
- 1. [Download](https://github.com/23Bluemaster23/EdgeFox/releases) the file in the release section/Descarga el archivo en la sección de lanzamiento.
+ **1.** [Download](https://github.com/23Bluemaster23/EdgeFox/releases) the file in the release section/Descarga el archivo en la sección de lanzamiento.
  
- 2. Type in the address bar/escribe en la barra de direcciones:  `about:profiles`
+ **2.** Type in the address bar/escribe en la barra de direcciones:  `about:profiles`
  
- 3. Locate the "Local Directory" and press the "Open Folder" button/Localiza el "Directorio local" y presionas el boton "Abrir Carpeta".
+ **3.** Locate the "Local Directory" and press the "Open Folder" button/Localiza el "Directorio local" y presionas el boton "Abrir Carpeta".
 
 <img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/3.png" width="700" />
  
- 4. put the "chrome" folder from the zip in the local directory/poner la carpeta "chrome" del zip en el directorio local.
+ **4.** put the "chrome" folder from the zip in the local directory/poner la carpeta "chrome" del zip en el directorio local.
 
 <img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/4.png" width="700" /> 
 
@@ -100,7 +100,7 @@ thanks to/gracias a:
 
 [bmFtZQ](https://github.com/bmFtZQ "bmFtZQ") for the use of/por el uso de [Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox "Edge-FrFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NzI5NTc0OCwxMTUxNDMzNTI1LC0yMD
+eyJoaXN0b3J5IjpbMjAyNTIxNzkxNiwxMTUxNDMzNTI1LC0yMD
 gzMjczMDU3LC02ODMwODQ3ODMsLTE0NTg1MTkyOTUsMTMzODE1
 NTUzMCw5MTgyNjg4MzAsMTk5MTQyMDg1MywtMjExODczMTYxNC
 wtNjA1OTYzODk2LDIwODE2NDIzNzMsLTg4MzY5ODA3MiwxNzM4
