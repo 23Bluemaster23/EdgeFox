@@ -27,6 +27,8 @@ Is a **userchrome** that imitates (or attempts to imitate) the style of Microsof
 
 ------------
 
+ 1. 
+
 ### Recommendations/Recomendaciones
 
 
@@ -79,7 +81,7 @@ thanks to/gracias a:
 
 [bmFtZQ](https://github.com/bmFtZQ "bmFtZQ") for the use of/por el uso de [Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox "Edge-FrFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgzMDMyMDUsMTk5MTQyMDg1MywtMTM5ND
-g1MTM4OSwtMjExODczMTYxNCwtNjA1OTYzODk2LDIwODE2NDIz
-NzMsLTg4MzY5ODA3MiwxNzM4MTQyNjg3XX0=
+eyJoaXN0b3J5IjpbOTE4MjY4ODMwLDE5OTE0MjA4NTMsLTEzOT
+Q4NTEzODksLTIxMTg3MzE2MTQsLTYwNTk2Mzg5NiwyMDgxNjQy
+MzczLC04ODM2OTgwNzIsMTczODE0MjY4N119
 -->
