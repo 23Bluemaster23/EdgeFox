@@ -39,6 +39,7 @@ Is a **userchrome** that imitates (or attempts to imitate) the style of Microsof
 
 4. Now look for the "Import" button at the bottom of the page/ahora busca el boton "import" en el fondo de la pagina.
 
+<img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/7.png" width="700" /> 
 
 5. 
 
@@ -94,8 +95,8 @@ thanks to/gracias a:
 
 [bmFtZQ](https://github.com/bmFtZQ "bmFtZQ") for the use of/por el uso de [Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox "Edge-FrFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0OTg1MDE2MCwtNjgzMDg0NzgzLC0xND
-U4NTE5Mjk1LDEzMzgxNTU1MzAsOTE4MjY4ODMwLDE5OTE0MjA4
-NTMsLTIxMTg3MzE2MTQsLTYwNTk2Mzg5NiwyMDgxNjQyMzczLC
-04ODM2OTgwNzIsMTczODE0MjY4N119
+eyJoaXN0b3J5IjpbLTIwODMyNzMwNTcsLTY4MzA4NDc4MywtMT
+Q1ODUxOTI5NSwxMzM4MTU1NTMwLDkxODI2ODgzMCwxOTkxNDIw
+ODUzLC0yMTE4NzMxNjE0LC02MDU5NjM4OTYsMjA4MTY0MjM3My
+wtODgzNjk4MDcyLDE3MzgxNDI2ODddfQ==
 -->
