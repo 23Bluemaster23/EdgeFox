@@ -9,8 +9,8 @@ Is a **userchrome** that imitates (or attempts to imitate) the style of Microsof
 
  1. [Download](https://github.com/23Bluemaster23/EdgeFox/releases) the file in the release section/Descarga el archivo en la sección de lanzamiento.
  
- 2. 
-
+ 2. Type in the address bar: `about:profiles`
+ 3. 
 ### Recommendations/Recomendaciones
 
 
@@ -63,6 +63,6 @@ thanks to/gracias a:
 
 [bmFtZQ](https://github.com/bmFtZQ "bmFtZQ") for the use of/por el uso de [Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox "Edge-FrFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMjkwMzU1MiwtNjA1OTYzODk2LDIwOD
+eyJoaXN0b3J5IjpbMTYwMzY5MDQ4NSwtNjA1OTYzODk2LDIwOD
 E2NDIzNzMsLTg4MzY5ODA3MiwxNzM4MTQyNjg3XX0=
 -->
