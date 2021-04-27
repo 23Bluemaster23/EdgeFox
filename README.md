@@ -33,6 +33,8 @@ Is a **userchrome** that imitates (or attempts to imitate) the style of Microsof
 
 <img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/5.png" width="700" /> 
 
+ 3. 
+
 ### Recommendations/Recomendaciones
 
 
@@ -85,8 +87,8 @@ thanks to/gracias a:
 
 [bmFtZQ](https://github.com/bmFtZQ "bmFtZQ") for the use of/por el uso de [Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox "Edge-FrFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODE1NTUzMCw5MTgyNjg4MzAsMTk5MT
-QyMDg1MywtMTM5NDg1MTM4OSwtMjExODczMTYxNCwtNjA1OTYz
-ODk2LDIwODE2NDIzNzMsLTg4MzY5ODA3MiwxNzM4MTQyNjg3XX
-0=
+eyJoaXN0b3J5IjpbLTE0NTg1MTkyOTUsMTMzODE1NTUzMCw5MT
+gyNjg4MzAsMTk5MTQyMDg1MywtMTM5NDg1MTM4OSwtMjExODcz
+MTYxNCwtNjA1OTYzODk2LDIwODE2NDIzNzMsLTg4MzY5ODA3Mi
+wxNzM4MTQyNjg3XX0=
 -->
