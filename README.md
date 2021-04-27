@@ -27,6 +27,7 @@ Is a **userchrome** that imitates (or attempts to imitate) the style of Microsof
 
 ------------
 
+For this to use the "Chrome" folder of "WITHTST", and besides installing the Tree Style Tab extension 
  1. Enter the extension options, look for the Advanced Option/Entrar en las opciones de la extensión, busca la Opcion Avanzada.
  
  2. In the CSS part press the "Load From File" button/En la parte de CSS preciona el boton "Load From File".
@@ -98,9 +99,9 @@ thanks to/gracias a:
 
 [bmFtZQ](https://github.com/bmFtZQ "bmFtZQ") for the use of/por el uso de [Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox "Edge-FrFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTQzMzUyNSwtMjA4MzI3MzA1NywtNj
-gzMDg0NzgzLC0xNDU4NTE5Mjk1LDEzMzgxNTU1MzAsOTE4MjY4
-ODMwLDE5OTE0MjA4NTMsLTEzOTQ4NTEzODksLTIxMTg3MzE2MT
-QsLTYwNTk2Mzg5NiwyMDgxNjQyMzczLC04ODM2OTgwNzIsMTcz
-ODE0MjY4N119
+eyJoaXN0b3J5IjpbOTcwNTcyMjk4LDExNTE0MzM1MjUsLTIwOD
+MyNzMwNTcsLTY4MzA4NDc4MywtMTQ1ODUxOTI5NSwxMzM4MTU1
+NTMwLDkxODI2ODgzMCwxOTkxNDIwODUzLC0xMzk0ODUxMzg5LC
+0yMTE4NzMxNjE0LC02MDU5NjM4OTYsMjA4MTY0MjM3MywtODgz
+Njk4MDcyLDE3MzgxNDI2ODddfQ==
 -->
