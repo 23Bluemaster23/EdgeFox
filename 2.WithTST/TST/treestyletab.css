@@ -1,0 +1,155 @@
+:root{
+  --active-tab-color-a     : #5AA6C7;
+  --active-tab-color-b     : #63CDCF;
+  --active-tab-color-shadow: #151D28;
+
+  --last-active-tab-color  : #63CDCF;
+
+  --tab-hover-color        : #4262ba;
+
+  --tab-text-color         : #D3E8E6
+  --active-tab-text-color  : #EDF5F4;
+
+  --close-box-background   : #192330;
+  
+  --newtab-btn-background  : #4262ba;
+
+
+  /*
+  Adjust value of favicon-shift if tab icons are incorrectly positioned.
+  >0 shifts left, <0 shifts right. 1=10px.
+  */
+  --favicon-shift          : 0;
+
+}
+
+tab-item {
+  margin       : 8px 10px;
+  margin-right : 15px;
+  border-radius: 5px;
+  padding-top  : 5px;
+  padding-right: 10px;
+  transition   : all 0.3s ease-i-out !important;
+  border: none !important;
+}
+
+.highlighter{
+  display: none !important;
+}
+
+.tab.last-active {
+ background: var(--last-active-tab-color);
+}
+
+tab-item .label{   
+  color: var(--active-tab-text-color ) !important;
+}
+
+tab-item.active {
+  background  : linear-gradient(to right, var(--active-tab-color-a), var(--active-tab-color-b)) !important;
+  box-shadow  : 5px 0 15px -1px var(--active-tab-color-shadow);
+  margin-right: 5px;
+  font-weight : bolder;
+  transition  : scale 0.3s ease-i-out !important;
+  color       : var(--tab-text-color ) !important;
+}
+
+tab-item:hover {
+  background: var(--tab-hover-color ) !important;
+  box-shadow: 0 5px 20px -5px var(--tab-hover-color ) !important;
+}
+
+
+.closebox:hover::before {
+  border-radius:50%;
+  opacity:.5;
+}
+
+:root.right tab-item tab-twisty {
+  display: none;
+}
+
+:root.right tab-item tab-favicon {
+  color: #c00000;
+  box-shadow: 0 0 10px rgb(255,255,255);
+  border-radius:50%;
+  background:rgba(255,255,255,0.35);
+  transform: scale(110%);
+  margin-right: calc(10px * var(--favicon-shift));
+  margin-left: 20px;
+  margin-bottom: 8px;
+  order: 1000;
+  filter: drop-shadow(0px 4px 6px rgba(0,0,0,0.2)) grayscale(0%) opacity(80%);
+  transition: all 0.2s ease-in-out;
+}
+
+:root.right tab-item.active:not(:hover) tab-favicon {
+  filter: drop-shadow(0px 4px 6px rgba(0,0,0,0.2)) grayscale(10%) opacity(80%);
+  transform: scale(130%);
+  margin-right: calc(5px + (10px * var(--favicon-shift)));
+}
+
+
+
+:root.right tab-item:hover tab-favicon 
+{
+  margin-left: 20px;
+}
+
+
+.tab:not(.group-tab):not([data-current-uri^="chrome:"]):not([data-current-uri^="about:addons"]):not([data-current-uri^="about:preferences"]) 
+.favicon .favicon-default::before {
+  background: url("chrome://branding/content/identity-icons-brand.svg") no-repeat center / 100% !important;
+  mask: none !important;
+}
+
+.newtab-button-box {
+  border: none !important;
+  margin: 0 50px;
+}
+
+.newtab-button {
+  border: none !important;
+  border-radius: 8px;
+  padding: 8px 0 !important;
+  margin: 0 5px;
+}
+
+.newtab-action-selector-anchor {
+  border: none !important;
+  margin-right: 10px;
+  margin-top : 3px;
+}
+ 
+.newtab-button:hover{
+  background: var(--newtab-btn-background);
+}
+
+tab-item.pinned{
+  margin-top: 3px;
+  margin-bottom: 10px;
+  padding: 0px !important;
+  
+}
+
+:root.right tab-item.pinned tab-favicon {
+  transform: scale(120%);
+  margin-left: 6px;
+  margin-top: 7px;
+}
+
+:root.right tab-item.active.pinned{  
+  left: 200px !important;
+}
+
+:root.right tab-item.active.pinned.last-row {
+  left: 200px
+  top: 20px !important;
+}
+:root.right tab-item.active.pinned tab-favicon {
+  transform: scale(130%) !important;
+  margin-left: 6px;
+}
+
+#tabbar:not(:hover) { scrollbar-width: none; 
+}
