@@ -12,7 +12,6 @@ Is a **userchrome** that imitates (or attempts to imitate) the style of Microsof
  2. Type in the address bar/escribe en la barra de direcciones:  `about:profiles`
  
  3. Locate the "Local Directory" and press the "Open Folder" button/Localiza el "Directorio local" y presionas el boton "Abrir Carpeta".
-
 <img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/3.png" width="700" />
  4. 
 ### Recommendations/Recomendaciones
@@ -67,7 +66,7 @@ thanks to/gracias a:
 
 [bmFtZQ](https://github.com/bmFtZQ "bmFtZQ") for the use of/por el uso de [Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox "Edge-FrFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDQ2MzE4OSwtMjExODczMTYxNCwtNj
-A1OTYzODk2LDIwODE2NDIzNzMsLTg4MzY5ODA3MiwxNzM4MTQy
-Njg3XX0=
+eyJoaXN0b3J5IjpbLTEzOTQ4NTEzODksLTIxMTg3MzE2MTQsLT
+YwNTk2Mzg5NiwyMDgxNjQyMzczLC04ODM2OTgwNzIsMTczODE0
+MjY4N119
 -->
