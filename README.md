@@ -20,6 +20,13 @@ Is a **userchrome** that imitates (or attempts to imitate) the style of Microsof
 <img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/4.png" width="700" /> 
 
 5.  and ready!/¡y listo!
+
+
+------------
+####  **⛔ For Tree Style Tabs⛔**
+
+------------
+
 ### Recommendations/Recomendaciones
 
 
@@ -72,7 +79,7 @@ thanks to/gracias a:
 
 [bmFtZQ](https://github.com/bmFtZQ "bmFtZQ") for the use of/por el uso de [Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox "Edge-FrFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTk3NzU0MTMsMTk5MTQyMDg1MywtMT
-M5NDg1MTM4OSwtMjExODczMTYxNCwtNjA1OTYzODk2LDIwODE2
-NDIzNzMsLTg4MzY5ODA3MiwxNzM4MTQyNjg3XX0=
+eyJoaXN0b3J5IjpbNjgzMDMyMDUsMTk5MTQyMDg1MywtMTM5ND
+g1MTM4OSwtMjExODczMTYxNCwtNjA1OTYzODk2LDIwODE2NDIz
+NzMsLTg4MzY5ODA3MiwxNzM4MTQyNjg3XX0=
 -->
