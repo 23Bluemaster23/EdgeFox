@@ -7,7 +7,7 @@ Is a **userchrome** that imitates (or attempts to imitate) the style of Microsof
 
 ### Installation/Instalación
 
- 1. Download the file 
+ 1. Download the file in the release section/Descarga el archivo en la sección de lanzamiento.
 
 ### Recommendations/Recomendaciones
 
@@ -61,6 +61,6 @@ thanks to/gracias a:
 
 [bmFtZQ](https://github.com/bmFtZQ "bmFtZQ") for the use of/por el uso de [Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox "Edge-FrFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTc2OTEzOTIsMjA4MTY0MjM3MywtOD
-gzNjk4MDcyLDE3MzgxNDI2ODddfQ==
+eyJoaXN0b3J5IjpbMTIxNjUyODU1NSwyMDgxNjQyMzczLC04OD
+M2OTgwNzIsMTczODE0MjY4N119
 -->
