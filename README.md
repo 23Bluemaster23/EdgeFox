@@ -19,7 +19,7 @@ Is a **userchrome** that imitates (or attempts to imitate) the style of Microsof
 
 <img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/4.png" width="700" /> 
 
-5. 
+5.  and ready!/¡y listo!
 ### Recommendations/Recomendaciones
 
 
@@ -72,7 +72,7 @@ thanks to/gracias a:
 
 [bmFtZQ](https://github.com/bmFtZQ "bmFtZQ") for the use of/por el uso de [Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox "Edge-FrFox")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTQyMDg1MywtMjExODczMTYxNCwtNj
-A1OTYzODk2LDIwODE2NDIzNzMsLTg4MzY5ODA3MiwxNzM4MTQy
-Njg3XX0=
+eyJoaXN0b3J5IjpbLTEwNTk3NzU0MTMsMTk5MTQyMDg1MywtMj
+ExODczMTYxNCwtNjA1OTYzODk2LDIwODE2NDIzNzMsLTg4MzY5
+ODA3MiwxNzM4MTQyNjg3XX0=
 -->
