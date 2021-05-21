@@ -355,6 +355,7 @@
 .tab-throbber[progress]
 {
 	background-image: url(spinner-progress.svg) !important;
+	fill: var(--lwt-toolbarbutton-icon-fill-attention) !important;
 	animation-direction: normal !important;
 }
 
