@@ -3,9 +3,7 @@
 :root{
 	--toolbar-bgcolor:var(--toolbar-bgcolor);
   scrollbar-color: rgb(35,35,35) rgb(0,0,0) !important;
-  scrollbar-width: thin !important;
 }
 
 * {
-  scrollbar-width: thin !important;
 }

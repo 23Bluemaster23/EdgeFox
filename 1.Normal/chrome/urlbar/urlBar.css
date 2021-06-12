@@ -509,14 +509,14 @@
 #identity-icon-box
 {
 	min-width: 40px !important;
-	padding: 5px 12px !important;
+	padding: 5px 5px 5px 15px !important;
 }
 
 #identity-permission-box
 {
 	min-width: 28px !important;
 	padding: 5px 0px !important;
-	padding-inline-end: 12px !important;
+	padding-inline-end: 20px !important;
 	margin: 0 0 0 -8px !important;
 }
 

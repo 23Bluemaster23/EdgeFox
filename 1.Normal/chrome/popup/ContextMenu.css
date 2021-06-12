@@ -365,23 +365,15 @@ panel[type="arrow"][side="right"]
 	display: none !important;
 }
 
-/* .subview-subheader, */
-panelview .toolbarbutton-1,
-.subviewbutton,
-.widget-overflow-list .toolbarbutton-1,
-.panel-banner-item
-{
-	min-height: 32px !important;
-	padding: 0 12px !important;
-}
+
 
 .subviewbutton .toolbarbutton-icon,
 .panel-banner-item .toolbarbutton-icon
 {
-	margin-inline-end: 8px !important;
-	width: 24px !important;
-	height: 24px !important;
-	padding: 4px !important;
+	margin-inline-end: 2px !important;
+	width: 20px !important;
+	height: 18px !important;
+	padding: 2px !important;
 }
 
 .subviewbutton label,
@@ -413,13 +405,7 @@ panelview .toolbarbutton-1,
 	width: 46px !important;
 }
 
-#appMenu-edit-controls > .subviewbutton,
-#appMenu-zoom-controls > #appMenu-fullscreen-button,
-#appMenu-zoom-controls > #appMenu-zoomReduce-button
-{
-	border-left: 1px solid var(--panel-separator-color) !important;
-	padding-left: 1px !important;
-}
+
 
 #appMenu-zoom-controls > toolbarseparator[orient="vertical"] + .subviewbutton
 {

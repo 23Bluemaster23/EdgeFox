@@ -1,8 +1,7 @@
 @import "global/variables.css";
 @import "global/global.css";
 @import "popup/ContextMenu.css";
-@import "tabbar/window_control_placeholder_support.css";
-@import "tabbar/hide_tabs_toolbar.css";
-@import "tabbar/userChrome-hover.css";
+@import "tabbar/Tabs.css";
 @import "urlbar/urlBar.css";
-@import "Icons/icons.css";
+@import "Icons/Bar.css";
+@import "Icons/Menus.css";
