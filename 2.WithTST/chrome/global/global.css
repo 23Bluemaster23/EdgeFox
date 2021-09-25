@@ -6,33 +6,9 @@
 		{
 			@media (-moz-windows-default-theme)
 			{
-				:root[tabsintitlebar] .titlebar-buttonbox-container
+				:root[tabsintitlebar] .titlebar-button
 				{
-					height: 32px !important;
-					margin: 0 !important;
-				}
-				
-				:root[tabsintitlebar][sizemode=normal] .titlebar-buttonbox-container:not(#toolbar-menubar .titlebar-buttonbox-container)
-				{
-					margin-block-start: calc(0px - (var(--space-above-tabbar) + 1px)) !important;
-				}
-				
-				:root[tabsintitlebar][sizemode=maximized] #toolbar-menubar .titlebar-buttonbox-container
-				{
-					height: 30px !important;
-					margin-top: -4px !important;
-					margin-bottom: -4px !important;
-				}
-				:root[tabsintitlebar] #toolbar-menubar:not([inactive="true"]) {
-					height: 24px !important;
-				}
-				:root[tabsintitlebar] #toolbar-menubar:not([inactive="true"]) .titlebar-button {
-					padding-block: 4px !important;
-				}
-				:root[tabsintitlebar][sizemode=maximized]:not([extradragspace]) .titlebar-buttonbox-container:not(#toolbar-menubar .titlebar-buttonbox-container)
-				{
-					-moz-box-align: start !important;
-					margin-block-start: -5px !important;
+					transform: translateY(-8px) !important;
 				}
 				
 				@media (-moz-windows-accent-color-in-titlebar: 0)
@@ -64,8 +40,27 @@
 #scrollbutton-up[part="scrollbutton-up"]:not(.menupopup-scrollbutton),
 #scrollbutton-down[part="scrollbutton-down"]:not(.menupopup-scrollbutton)
 {
-	border-radius: 4px !important;
-	transition: background-color .2s var(--ease-basic) !important;
+	border-radius: 6px !important;
+	transition-property:
+		background-color,
+		background-size,
+		fill-opacity !important;
+	transition-duration: .3s !important;
+	transition-timing-function:
+		var(--ease-basic),
+		var(--ease-out),
+		var(--ease-basic) !important;
+
+	fill: currentColor !important;
+	fill-opacity: 0 !important;
+
+	background-image:
+		url(circle.svg),
+		url(circle.svg) !important;
+	background-size: 25% !important;
+	background-repeat: no-repeat !important;
+	background-position: center !important;
+	background-color: transparent !important;
 }
 
 #navigator-toolbox :-moz-any(.toolbarbutton-1, toolbarbutton.bookmark-item:not(.subviewbutton)),
@@ -76,20 +71,19 @@
 	font-size: 12px !important;
 	padding: 0 !important;
 	margin: 0 !important;
-	border: 2px solid transparent !important;
+	border: 4px solid transparent !important;
 	background-clip: padding-box !important;
 }
 
-/*
 #navigator-toolbox :-moz-any(.toolbarbutton-1, .scrollbutton-up, .scrollbutton-down),
-#scrollbutton-up[part="scrollbutton-up"]:not(.menupopup-scrollbutton),
-#scrollbutton-down[part="scrollbutton-down"]:not(.menupopup-scrollbutton)
+/* no ::part workaround - may have side effects */
+.#scrollbutton-up[part="scrollbutton-up"]:not(.menupopup-scrollbutton),
+.#scrollbutton-down[part="scrollbutton-down"]:not(.menupopup-scrollbutton)
 {
 	max-height: 32px !important;
 	height: 32px !important;
 	min-height: 32px !important;
 }
-*/
 
 #navigator-toolbox :-moz-any(.toolbarbutton-1, toolbarbutton.bookmark-item:not(.subviewbutton))[disabled],
 /* no ::part workaround - may have side effects */
@@ -113,8 +107,8 @@
 #scrollbutton-up[part="scrollbutton-up"]:not(.menupopup-scrollbutton):hover:active:not([disabled]),
 #scrollbutton-down[part="scrollbutton-down"]:not(.menupopup-scrollbutton):hover:active:not([disabled])
 {
-	background-color: var(--toolbarbutton-active-background) !important;
-	transition: none !important;
+	fill-opacity: .04 !important;
+	background-size: 100% !important;
 }
 
 #navigator-toolbox :-moz-any(.toolbarbutton-icon, .toolbarbutton-badge-stack),
@@ -129,24 +123,20 @@
 
 #navigator-toolbox .toolbarbutton-1 > :-moz-any(.toolbarbutton-icon, .toolbarbutton-badge-stack)
 {
-	width: 40px !important;
-	height: 30px !important;
+	width: calc(2 * var(--toolbarbutton-inner-padding) + 16px) !important;
+	height: calc(2 * var(--toolbarbutton-inner-padding) + 16px) !important;
 }
 
+#navigator-toolbox > #PersonalToolbar .toolbarbutton-1 > .toolbarbutton-icon,
 #navigator-toolbox .toolbarbutton-1 > :-moz-any(.toolbarbutton-icon, .toolbarbutton-badge-stack),
 /* no ::part workaround - may have side effects */
 #scrollbutton-up[part="scrollbutton-up"]:not(.menupopup-scrollbutton) > .toolbarbutton-icon,
 #scrollbutton-down[part="scrollbutton-down"]:not(.menupopup-scrollbutton) > .toolbarbutton-icon
 {
-	padding: 7px 12px !important;
-	background: 0 !important;
-}
-
-#TabsToolbar .toolbarbutton-1 > :-moz-any(.toolbarbutton-icon, .toolbarbutton-badge-stack)
-{
 	padding: 6px !important;
-	width: 28px !important;
-	height: 28px !important;
+	background: 0 !important;
+	width: auto !important;
+	height: auto !important;
 }
 
 /*
@@ -292,10 +282,6 @@
 	display: none !important;
 }
 
-.toolbarbutton-1:not(:hover):-moz-window-inactive, .bookmark-item:not(:hover):-moz-window-inactive, :root:not([customizing]) .toolbarbutton-1:-moz-window-inactive[disabled="true"] {
-	opacity: 1 !important;
-}
-
 /* high DPI adjustments */
 @media (min--moz-device-pixel-ratio: 2)
 {
@@ -305,26 +291,4 @@
 		padding-bottom: .5px !important;
 		box-shadow: inset 0 -.5px var(--toolbar-bgcolor) !important;
 	}
-}
-
-#sidebar-box, #sidebar {
-	appearance: none !important;
-}
-.sidebar-placesTree, #viewButton {
-	color: #000 !important;
-}
-:root[lwt-sidebar-brighttext] :-moz-any(.sidebar-placesTree, #viewButton) {
-	color: #fff !important;
-}
-
-#statuspanel {
-	clip-path: inset(0) !important;
-}
-
-#statuspanel-label {
-	background-color: var(--toolbar-bgcolor) !important;
-	color: var(--toolbar-color) !important;
-	border: 0 !important;
-	box-shadow: 0 0 0 1px #0004, 0 4px 6px #0004 !important;
-	padding: 3px 6px !important;
 }
