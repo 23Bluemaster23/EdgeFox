@@ -126,7 +126,7 @@
 	list-style-image: url(zoom-out.svg) !important;
 }
 
-#appMenu-library-downloads-button, #downloads-button {
+/*#appMenu-library-downloads-button, #downloads-button {
 	list-style-image: url(download.svg#arrow-with-bar) !important;
 }
 #downloads-indicator-icon {
@@ -144,7 +144,7 @@
 
 #downloads-button[progress] > .toolbarbutton-badge-stack > #downloads-indicator-anchor > #downloads-indicator-progress-outer {
 	background-image: url(download.svg#progress-bar-bg) !important;
-}
+}*/
 
 #PanelUI-fxa-menu-remotetabs-button, #appMenuRecentlyClosedTabs, #appMenu-library-remotetabs-button, #sync-button {
 	list-style-image: url(synced-tabs.svg) !important;
@@ -390,7 +390,6 @@ richlistitem[originaltype="loginsFooter"] .ac-site-icon,
 
 .tab-icon-overlay {
 	border-radius: 2px !important;
-	margin-inline: -10px -6px !important;
 }
 
 .tab-icon-overlay[soundplaying] {
@@ -462,8 +461,6 @@ richlistitem[originaltype="loginsFooter"] .ac-site-icon,
 {
 	background-image: url(search.svg) !important;
 }
-
-#screenshot-button{
-	list-style-image: url(screenshot.svg) !important;
+#screenshot-button {
+	list-style-image: url("screenshot.svg")!important;
 }
-

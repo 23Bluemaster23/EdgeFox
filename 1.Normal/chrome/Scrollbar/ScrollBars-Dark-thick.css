@@ -1,9 +1,0 @@
-@namespace url("http://www.w3.org/1999/xhtml");
-
-:root{
-	--toolbar-bgcolor:var(--toolbar-bgcolor);
-  scrollbar-color: rgb(35,35,35) rgb(0,0,0) !important;
-}
-
-* {
-}

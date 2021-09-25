@@ -1,9 +1,0 @@
-@namespace url("http://www.w3.org/1999/xhtml");
-
-:root{
-  scrollbar-width: thin !important;
-}
-
-* {
-  scrollbar-width: thin !important;
-}
