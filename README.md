@@ -1,7 +1,7 @@
 # EdgeFox
 Is a **userchrome** that imitates (or attempts to imitate) the style of Microsoft's **Edge Chromiun** browser.  is a project in development./Es un **userchrome** que imita (o intenta imitar) el estilo del navegador **Edge Chromiun** de Microsoft. es un proyecto en desarrollo.
 
-<img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/59dgw183wrg412.png" width="700" />
+<img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/Main.png" width="700" />
 
 
 
