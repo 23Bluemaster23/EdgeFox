@@ -17,14 +17,19 @@ first you have to modify the options in **about:config** :
 
 <img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/Paso%20(2).png" width="700" />
 
+
+
  - `toolkit.legacyUserProfileCustomizations.stylesheets` to `true`
+
+<img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/Paso%20(3).png" width="700" />
   
  - `svg.context-properties.content.enabled` to `true` 
 
-    
+<img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/Paso%20(4).png" width="700" />    
 
  - `layout.css.color-mix.enabled`  to  `true`
  
+ <img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/Paso%20(5).png" width="700" />
 
  **1.** [Download](https://github.com/23Bluemaster23/EdgeFox/releases) the file in the release section
  
