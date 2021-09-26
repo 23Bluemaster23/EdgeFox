@@ -35,11 +35,29 @@ first you have to modify the options in **about:config** :
  
  **2.** Type in the address bar:  `about:profiles`
  
+ <img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/Paso%20(7).png" width="700" />
+
  **3.** Locate the "Local Directory" and press the "Open Folder" button
 
+<img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/Paso%20(8).png" width="700" />
+
+<img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/Paso%20(9).png" width="700" />
+
  **4.** put the "chrome" folder from the zip in the local directory.
+
+ <img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/Paso%20(10).png" width="700" />
+
+ <img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/Paso%20(11).png" width="700" />
+
+ <img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/Paso%20(12).png" width="700" />
+
+ <img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/Paso%20(13).png" width="700" />
+
+ <img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/Paso%20(14).png" width="700" />
  
 **5.**  and ready!.
+
+<img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/Paso%20(15).png" width="700" />
 
 #### **Español** ####  
 Primero tienes que modificar las opciones en **about:config** :
