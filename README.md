@@ -90,6 +90,8 @@ Edgefox has support for TST (Tree Style Tab)
 
 **1.** First you have to install the [Tree Style Tab extension](https://addons.mozilla.org/en/firefox/addon/tree-style-tab/) in Firefox Addons
 
+<img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/Paso%20(16).png" width="700" />
+
 **2.** Do the same steps as with the normal folder but using the "With TST" folder.
 
 **Español**
