@@ -12,6 +12,11 @@ Is a **userchrome** that imitates (or attempts to imitate) the style of Microsof
 #### **English**
 
 first you have to modify the options in **about:config** : 
+
+<img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/Paso%20(1).png" width="700" />
+
+<img src="https://github.com/23Bluemaster23/EdgeFox/blob/main/IMG/Paso%20(2).png" width="700" />
+
  - `toolkit.legacyUserProfileCustomizations.stylesheets` to `true`
   
  - `svg.context-properties.content.enabled` to `true` 
