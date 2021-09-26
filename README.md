@@ -102,7 +102,6 @@ Si quieres conseguir el desplazamiento suave de Edge, tienes que modificar las o
 
 thanks to/gracias a:
 
-
 [muckSponge](https://github.com/muckSponge "muckSponge") for the use of/por el uso de [MaterialFox](https://github.com/muckSponge/MaterialFox "MaterialFox") 
 
 [Michael](http://github.com/M1ch431 "Michael") for the use of/por el uso de [FirefoxW10ContextMenus](http://github.com/M1ch431/FirefoxW10ContextMenus "FirefoxW10ContextMenus")
@@ -113,3 +112,6 @@ thanks to/gracias a:
 
 
 [bmFtZQ](https://github.com/bmFtZQ "bmFtZQ") for the use of/por el uso de [Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox "Edge-FrFox")
+
+
+[astroryan12](https://github.com/astroryan12 "astroryan12") for the use of/por el uso de [VerticalTabs](https://github.com/astroryan12/VerticalTabs "VerticalTabs")
